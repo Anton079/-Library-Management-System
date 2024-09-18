@@ -1,0 +1,14 @@
+C:\mycode\oop\mostenire\Library Management System2.0\Library Management System2.0\bin\Debug\net6.0\Library Management System2.0.exe
+C:\mycode\oop\mostenire\Library Management System2.0\Library Management System2.0\bin\Debug\net6.0\Library Management System2.0.deps.json
+C:\mycode\oop\mostenire\Library Management System2.0\Library Management System2.0\bin\Debug\net6.0\Library Management System2.0.runtimeconfig.json
+C:\mycode\oop\mostenire\Library Management System2.0\Library Management System2.0\bin\Debug\net6.0\Library Management System2.0.dll
+C:\mycode\oop\mostenire\Library Management System2.0\Library Management System2.0\bin\Debug\net6.0\Library Management System2.0.pdb
+C:\mycode\oop\mostenire\Library Management System2.0\Library Management System2.0\obj\Debug\net6.0\Library Management System2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\mycode\oop\mostenire\Library Management System2.0\Library Management System2.0\obj\Debug\net6.0\Library Management System2.0.AssemblyInfoInputs.cache
+C:\mycode\oop\mostenire\Library Management System2.0\Library Management System2.0\obj\Debug\net6.0\Library Management System2.0.AssemblyInfo.cs
+C:\mycode\oop\mostenire\Library Management System2.0\Library Management System2.0\obj\Debug\net6.0\Library Management System2.0.csproj.CoreCompileInputs.cache
+C:\mycode\oop\mostenire\Library Management System2.0\Library Management System2.0\obj\Debug\net6.0\Library Management System2.0.dll
+C:\mycode\oop\mostenire\Library Management System2.0\Library Management System2.0\obj\Debug\net6.0\refint\Library Management System2.0.dll
+C:\mycode\oop\mostenire\Library Management System2.0\Library Management System2.0\obj\Debug\net6.0\Library Management System2.0.pdb
+C:\mycode\oop\mostenire\Library Management System2.0\Library Management System2.0\obj\Debug\net6.0\Library Management System2.0.genruntimeconfig.cache
+C:\mycode\oop\mostenire\Library Management System2.0\Library Management System2.0\obj\Debug\net6.0\ref\Library Management System2.0.dll
