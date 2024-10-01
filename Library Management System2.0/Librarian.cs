@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Library_Management_System2._0
 {
-    public class Librarian : Actions
+    public class Librarian : IActions
     {
         private Catalog catalog;
          
@@ -16,12 +16,12 @@ namespace Library_Management_System2._0
             catalog = new Catalog();
         }
 
-        public override void DisplayBooks()
+        public void DisplayBooks()
         {
             catalog.AfisareBooks();
         }
 
-        public override void BarrowBook(int idBook)
+        public void BarrowBook(int idBook)
         {
             Book x = catalog.ReturnBookById(idBook);
 
@@ -32,7 +32,7 @@ namespace Library_Management_System2._0
             }
         }
 
-        public override void ReturnBook(int idBook)
+        public void ReturnBook(int idBook)
         {
             Book x = catalog.ReturnBookById(idBook);
 

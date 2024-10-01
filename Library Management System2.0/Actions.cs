@@ -6,22 +6,13 @@ using System.Threading.Tasks;
 
 namespace Library_Management_System2._0
 {
-    public class Actions
+    public interface IActions
     {
 
-        public virtual void DisplayBooks()
-        {
-            Console.WriteLine("base");
-        }
+        void DisplayBooks();
 
-        public virtual void BarrowBook(int idBook)
-        {
-            Console.WriteLine("base");
-        }
+        void BarrowBook(int idBook);
 
-        public virtual void ReturnBook(int idBook)
-        {
-            Console.WriteLine("base");
-        }
+        void ReturnBook(int idBook);
     }
 }
